@@ -16,6 +16,7 @@
     "happy",
     "birthday"
   ],
+  "bin": "bin/hbd",
   "author": "Zach Kelling <z@zeekay.io>",
   "license": "MIT",
   "main": "index.js",
